@@ -3,7 +3,7 @@ servings: 1 pizza
 preparation_time: 15 minutos
 cook_time: 5 minutos
 total_time: 2 días 4 horas 20 minutos
-tags: [italiana, pizza, masa]
+tags: [italiana, pan]
 ---
 
 # Masa de pizza napolitana
@@ -14,7 +14,7 @@ tags: [italiana, pizza, masa]
 - **85 mililitros** de agua
 - **5 gramos** de sal
 - **0,3 gramos** de levadura fresca
-- **Aceite vegetal** (para engrasar)
+- Aceite vegetal (para engrasar)
 
 ## Pasos
 

@@ -16,7 +16,7 @@ tags: [india, pan]
 - **6 gramos** de azúcar
 - **20 ml** de aceite de oliva virgen extra
 - **100 ml** de agua tibia
-- Leche tibia (la que admita)
+- **10 ml** de leche tibia (la que admita)
 - Mantequilla derretida
 
 ## Pasos
