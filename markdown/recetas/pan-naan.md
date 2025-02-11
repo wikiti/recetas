@@ -7,8 +7,6 @@ total_time: 30 minutes
 tags: [india, pan]
 ---
 
-# Pan Naan
-
 ## Ingredientes
 
 - **260 gramos** de harina de trigo

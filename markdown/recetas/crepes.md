@@ -7,8 +7,6 @@ total_time: 45 minutos
 tags: [desayuno, postre, francesa]
 ---
 
-# Crepes
-
 ## Ingredientes
 
 - **125 gramos** de harina

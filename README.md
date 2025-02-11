@@ -27,15 +27,13 @@ tiempos de reposo de masas y reposo en nevera. El formato debe ser tal que así:
 
 ```
 ---
-title: Pan
+title: Título de la receta
 servings: 2 panes
 preparation_time: 15 minutos
 cook_time: 1 hora 5 minutos
 total_time: 1 hora 20 minutos
 tags: [italiana, pan]
 ---
-
-# Título de la receta
 
 ## Ingredientes
 

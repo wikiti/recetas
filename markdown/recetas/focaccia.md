@@ -7,8 +7,6 @@ total_time: 1 hora 35 minutos
 tags: [pan, italiana]
 ---
 
-# Focaccia
-
 ## Ingredientes
 
 - **500 gramos** de harina de pan

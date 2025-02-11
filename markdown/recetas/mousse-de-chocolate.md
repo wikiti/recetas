@@ -7,8 +7,6 @@ total_time: 6 horas 20 minutos
 tags: [postre, chocolate, mousse]
 ---
 
-# Mousse de chocolate
-
 ## Ingredientes
 
 - **150 gramos** de chocolate (Cadbury u otra marca que derrita bien)

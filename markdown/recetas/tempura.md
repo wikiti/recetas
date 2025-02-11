@@ -7,8 +7,6 @@ total_time: 20 minutes
 tags: [asiática, tempura]
 ---
 
-# Tempura
-
 ## Ingredientes
 
 - **150 gramos** de harina

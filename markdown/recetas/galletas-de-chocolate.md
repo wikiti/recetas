@@ -7,8 +7,6 @@ total_time: 28 minutos
 tags: [galletas, postre, chocolate]
 ---
 
-# Galletas de chocolate
-
 ## Ingredientes
 
 - **120 gramos** de chocolate semidulce

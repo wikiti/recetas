@@ -7,8 +7,6 @@ total_time: 2 días 4 horas 20 minutos
 tags: [italiana, pan]
 ---
 
-# Masa de pizza napolitana
-
 ## Ingredientes
 
 - **140 gramos** de harina de fuerza

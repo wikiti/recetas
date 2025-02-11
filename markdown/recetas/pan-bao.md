@@ -7,8 +7,6 @@ total_time: 2 horas 30 minutos
 tags: [asiática, pan, bao]
 ---
 
-# Pan Bao
-
 ## Ingredientes
 
 - **500 gramos** de harina de trigo multiuso
