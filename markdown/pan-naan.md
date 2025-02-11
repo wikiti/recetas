@@ -1,4 +1,5 @@
 ---
+title: Pan Naan
 servings: 4 panes
 preparation_time: 15 minutes
 cook_time: 15 minutes

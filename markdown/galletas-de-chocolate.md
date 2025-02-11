@@ -1,4 +1,5 @@
 ---
+title: Galletas de chocolate
 servings: 25 galletas
 preparation_time: 15 minutos
 cook_time: 13 minutos

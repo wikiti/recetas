@@ -1,4 +1,5 @@
 ---
+title: Crepes
 servings: 8 crepes
 preparation_time: 35 minutos
 cook_time: 10 minutos

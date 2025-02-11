@@ -1,4 +1,5 @@
 ---
+title: Masa de pizza napolitana
 servings: 1 pizza
 preparation_time: 15 minutos
 cook_time: 5 minutos

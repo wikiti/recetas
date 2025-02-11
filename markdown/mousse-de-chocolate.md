@@ -1,4 +1,5 @@
 ---
+title: Mousse de chocolate
 servings: 6 vasitos
 preparation_time: 20 minutos
 cook_time: 6 horas
