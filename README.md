@@ -23,7 +23,7 @@ pasos deben estar numerados como una lista numerada. Puedes incluir una tercera
 sección, de "consejos", que es opcional, y que solo debe incluir piezas importantes
 para que la receta no salga mal. No inventes, y extrae esta información de la receta.
 La suma de preparation_time y cook_time debe sumar total_time. La preparación incluye
-tiempos de reposo de masas y reposo en nevera. El forma debe ser tal que así:
+tiempos de reposo de masas y reposo en nevera. El formato debe ser tal que así:
 
 ```
 ---
