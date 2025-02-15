@@ -9,12 +9,12 @@ tags: [desayuno, dulce, postre]
 
 ## Ingredientes
 
-- 1 huevo  
-- 200 g harina de repostería  
-- 185 ml leche  
-- 1 1/2 cucharadas azúcar moreno  
-- 40 g mantequilla derretida  
-- 1 pizca sal  
+- **1** huevo  
+- **200 gramos** harina de repostería  
+- **185 mililitros** leche  
+- **1 1/2** cucharadas azúcar moreno  
+- **40 gramos** mantequilla derretida  
+- **1 pizca** sal  
 - Chips de chocolate (al gusto)  
 
 ## Pasos  

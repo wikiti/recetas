@@ -9,7 +9,7 @@ tags: [pan, italiana]
 
 ## Ingredientes
 
-- **500 gramos** de harina de pan
+- **500 gramos** de harina de fuerza
 - **400 mililitros** de agua
 - **12 gramos** de levadura de cerveza o **6 gramos** de levadura seca
 - **1 cucharadita** de azúcar

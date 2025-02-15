@@ -18,12 +18,13 @@ raciones (servings), tiempo de preparacion (preparation_time), tiempo de cocció
 (tags) según el tipo de receta (italiana, postre, asiática). Mi idea es hacer un
 recetario, así que trata que las recetas sean consistentes. Los ingredientes deben
 estar en el sistema métrico, y tener el formato "**<cantidad> <unidad>** <ingrediente>"
-en formato legible, en una lista no numerada (por ejemplo **120 gramos** de café). Los
-pasos deben estar numerados como una lista numerada. Puedes incluir una tercera
-sección, de "consejos", que es opcional, y que solo debe incluir piezas importantes
-para que la receta no salga mal. No inventes, y extrae esta información de la receta.
-La suma de preparation_time y cook_time debe sumar total_time. La preparación incluye
-tiempos de reposo de masas y reposo en nevera. El formato debe ser tal que así:
+en formato legible, en una lista no numerada (por ejemplo **120 gramos** de café). Las
+unidades deben estar en formato completo, no abreviadas (por ejemplo, "20 gramos" y no
+"20 gr"). Los pasos deben estar numerados como una lista numerada. Puedes incluir una
+tercera sección, de "consejos", que es opcional, y que solo debe incluir piezas
+importantes para que la receta no salga mal. No inventes, y extrae esta información de
+la receta. La suma de preparation_time y cook_time debe sumar total_time. La preparación
+incluye tiempos de reposo de masas y reposo en nevera. El formato debe ser tal que así:
 
 ```
 ---
