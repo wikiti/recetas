@@ -5,6 +5,7 @@ preparation_time: 10 minutes
 cook_time: 5-10 minutes
 total_time: 20 minutes
 tags: [asiática, tempura]
+layout: post
 ---
 
 ## Ingredientes

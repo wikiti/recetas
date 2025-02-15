@@ -5,6 +5,7 @@ preparation_time: 1 hora
 cook_time: 15 minutos
 total_time: 1 hora 15 minutos
 tags: [postre, francesa]
+layout: post
 ---
 
 ## Ingredientes

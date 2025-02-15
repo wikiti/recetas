@@ -5,6 +5,7 @@ preparation_time: 10 min
 cook_time: 15 min
 total_time: 25 min
 tags: [desayuno, dulce, postre]
+layout: post
 ---
 
 ## Ingredientes

@@ -1,0 +1,8 @@
+title: Mis recetas
+description: Prueba
+baseurl: ""
+url: ""
+theme: no-style-please
+
+theme_config:
+  show_description: true

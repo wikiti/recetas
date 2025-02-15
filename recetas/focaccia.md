@@ -5,6 +5,7 @@ preparation_time: 1+ horas
 cook_time: 20 minutos
 total_time: 1 hora 35 minutos
 tags: [pan, italiana]
+layout: post
 ---
 
 ## Ingredientes
