@@ -1,3 +1,5 @@
+[![](https://github.com/wikiti/recetas/actions/workflows/deploy-site.yml/badge.svg)](https://github.com/wikiti/recetas/actions/workflows/deploy-site.yml)
+
 # Recetas
 
 Mi lista de recetas culinarias. De momento son solo archivos markdown, pero quizá introduzca alguna herramienta para
@@ -7,7 +9,7 @@ convertirlo en formato PDF o web.
 
 Éste es el prompt de ChatGPT para generar las recetas en formato markdown:
 
-`````
+````
 Voy a pasarte texto o subir archivos de recetas culinarias. Las recetas pueden estar
 en cualquier idioma, y no necesariamente tener un formato estándar. Necesito que las
 transformes en formato markdown, y que las muestres en formato código, tipo "*esta es
@@ -52,4 +54,4 @@ layout: post
 - Intenta usar herramientas de buena calidad.
 - ...
 ```
-`````
+````
