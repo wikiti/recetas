@@ -5,6 +5,8 @@ preparation_time: 1 hora
 cook_time: 15 minutos
 total_time: 1 hora 15 minutos
 tags: [postre, francesa]
+tag: postre
+category: postre
 layout: post
 ---
 
@@ -21,7 +23,7 @@ layout: post
 ## Pasos
 
 1. En un bol grande o licuadora, mezclar los huevos, la harina, la leche, el agua, la mantequilla derretida, la vainilla y la sal. Batir bien o licuar durante unos 30 segundos hasta obtener una masa homogénea.
-2. Cubrir y dejar reposar la masa en la nevera durante al menos 1 hora (hasta un máximo de 4 horas). 
+2. Cubrir y dejar reposar la masa en la nevera durante al menos 1 hora (hasta un máximo de 4 horas).
 3. Calentar una sartén antiadherente de 20 cm a fuego medio y pincelar con un poco de mantequilla.
 4. Verter **3 cucharadas** de masa en la sartén y girarla inmediatamente para cubrir el fondo de manera uniforme. Cocinar hasta que la parte inferior esté ligeramente dorada (30-45 segundos).
 5. Dar la vuelta el crepe y cocinar el otro lado por unos **10-15 segundos**.
@@ -29,7 +31,7 @@ layout: post
 7. Repetir con el resto de la masa, engrasando la sartén con mantequilla entre cada crepe.
 8. Servir calientes con fruta fresca, Nutella, nata montada o azúcar glas.
 
-## Consejos  
+## Consejos
 
 - Usa ingredientes a temperatura ambiente para evitar que la mantequilla derretida se solidifique.
 - Dejar reposar la masa permite que la harina se hidrate completamente, logrando crepes más tiernas.

@@ -1,5 +1,5 @@
 ---
-title: Pan Bao
+title: Pan bao
 servings: 16 panecillos
 preparation_time: 2 horas 15 minutos
 cook_time: 15 minutos

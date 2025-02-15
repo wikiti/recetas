@@ -1,5 +1,5 @@
 ---
-title: Pan Naan
+title: Pan naan
 servings: 4 panes
 preparation_time: 15 minutes
 cook_time: 15 minutes
@@ -31,5 +31,5 @@ layout: post
 
 ## Consejos
 
-- Puedes ajustar la cantidad de leche según la consistencia que necesites para la masa.  
+- Puedes ajustar la cantidad de leche según la consistencia que necesites para la masa.
 - Si prefieres una textura más suave, cubre los panes con un paño limpio después de hornearlos.

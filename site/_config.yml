@@ -2,3 +2,6 @@ title: Mis recetas
 baseurl: ""
 url: "https://recetas.danielherzog.es"
 theme: no-style-please
+collections:
+  recipes:
+    output: true

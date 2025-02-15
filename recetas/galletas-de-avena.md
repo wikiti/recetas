@@ -4,7 +4,7 @@ servings: 24 galletas
 preparation_time: 15 minutos
 cook_time: 15 minutos
 total_time: 30 minutos
-tags: [galletas, avena, chocolate, postre]
+categories: [galletas, avena, chocolate, postre]
 layout: post
 ---
 

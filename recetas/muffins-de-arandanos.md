@@ -1,10 +1,12 @@
 ---
-title: "Muffins de Arándanos"
+title: "Muffins de arándanos"
 servings: 10 muffins
 preparation_time: 15 minutos
 cook_time: 20 minutos
 total_time: 35 minutos
 tags: [postre, desayuno, muffins]
+tag: postre
+category: postre
 layout: post
 ---
 

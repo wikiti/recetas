@@ -1,5 +1,5 @@
 ---
-title: Espaguetis Carbonara
+title: Espaguetis carbonara
 servings: 2 raciones
 preparation_time: 10 minutos
 cook_time: 15 minutos
