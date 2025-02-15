@@ -1,8 +1,5 @@
 title: Mis recetas
 description: Prueba
 baseurl: ""
-url: ""
+url: "https://recetas.danielherzog.es"
 theme: no-style-please
-
-theme_config:
-  show_description: true
