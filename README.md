@@ -1,7 +1,7 @@
 # Recetas
 
 Mi lista de recetas culinarias. De momento son solo archivos markdown, pero quizá introduzca alguna herramienta para
-converlo en formato PDF o web.
+convertirlo en formato PDF o web.
 
 ## Prompt
 

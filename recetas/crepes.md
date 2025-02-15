@@ -24,8 +24,8 @@ layout: post
 2. Cubrir y dejar reposar la masa en la nevera durante al menos 1 hora (hasta un máximo de 4 horas). 
 3. Calentar una sartén antiadherente de 20 cm a fuego medio y pincelar con un poco de mantequilla.
 4. Verter **3 cucharadas** de masa en la sartén y girarla inmediatamente para cubrir el fondo de manera uniforme. Cocinar hasta que la parte inferior esté ligeramente dorada (30-45 segundos).
-5. Dar la vuelta a la crepe y cocinar el otro lado por unos **10-15 segundos**.
-6. Transferir la crepe a un plato y cubrir con un paño limpio para mantenerla caliente.
+5. Dar la vuelta el crepe y cocinar el otro lado por unos **10-15 segundos**.
+6. Transferir el crepe a un plato y cubrir con un paño limpio para mantenerla caliente.
 7. Repetir con el resto de la masa, engrasando la sartén con mantequilla entre cada crepe.
 8. Servir calientes con fruta fresca, Nutella, nata montada o azúcar glas.
 
