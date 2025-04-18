@@ -21,13 +21,13 @@ layout: post
 
 ## Pasos
 
-1. Agregar la levadura y el azúcar al agua tibia y mezclar con un tenedor hasta que la levadura esté totalmente disuelta. Dejar reposar durante 5 minutos.
-2. Añadir la sal y el aceite de oliva al agua con levadura. Mezclar un poco e incorporar el agua reservada.
-3. Pasar la mezcla a las manos y amasar hasta conseguir una masa homogénea. Si está muy seca, añadir leche tibia poco a poco hasta que la masa quede húmeda y todos los ingredientes estén bien integrados.
-4. Formar una bola con la masa, pintarla con aceite de oliva y dejar reposar durante 15 minutos.
-5. Dividir la masa en 3 o 4 porciones, dependiendo del tamaño deseado para los panes. Estirar cada porción con las manos, dándole una forma alargada, y colocarlas en una bandeja antiadherente.
-6. Precalentar el horno a 140°C (opción arriba y abajo con ventilador) y hornear durante 15 minutos.
-7. Sacar los panes del horno y pintarlos con mantequilla derretida.
+1. Agrega la levadura y el azúcar al agua tibia y mezcla con un tenedor hasta que la levadura esté totalmente disuelta. Deja reposar durante 5 minutos.
+2. Añade la sal y el aceite de oliva al agua con levadura. Mezcla un poco e incorpora el agua reservada.
+3. Pasa la mezcla a las manos y amasa hasta conseguir una masa homogénea. Si está muy seca, añade leche tibia poco a poco hasta que la masa quede húmeda y todos los ingredientes estén bien integrados.
+4. Forma una bola con la masa, píntala con aceite de oliva y deja reposar durante 15 minutos.
+5. Divide la masa en 3 o 4 porciones, dependiendo del tamaño deseado para los panes. Estira cada porción con las manos, dándole una forma alargada, y colócalas en una bandeja antiadherente.
+6. Precalienta el horno a 140°C (opción arriba y abajo con ventilador) y hornea durante 15 minutos.
+7. Saca los panes del horno y píntalos con mantequilla derretida.
 
 ## Consejos
 

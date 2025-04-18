@@ -27,15 +27,15 @@ layout: post
 
 ## Pasos
 
-1. En una cazuela con un chorro de aceite de oliva, dorar los muslos de pollo por todos los lados hasta que la piel esté crujiente. Retirar y reservar.
-2. En la misma cazuela, añadir el ajo picado y dorar ligeramente sin que se queme.
-3. Incorporar la cebolla, el puerro y la zanahoria. Agregar media cucharada de sal y pimienta al gusto. Sofreír hasta que la cebolla esté pochada y la zanahoria empiece a ablandarse.
-4. Añadir el pimiento rojo y cocinar unos 8 minutos hasta que esté tierno.
-5. Agregar las 2 cucharadas de harina y remover bien para integrarla, cocinándola durante 2-3 minutos.
-6. Volver a incorporar el pollo junto con el jugo que haya soltado. Añadir el laurel, el tomillo, el romero y la salsa de soja.
-7. Verter el litro de cerveza y mezclar bien.
-8. Cocinar a fuego medio durante unos 30-40 minutos o hasta que la salsa se haya reducido y espesado.
-9. Servir caliente acompañado de pan para aprovechar la salsa.
+1. Dora los muslos de pollo por todos los lados en una cazuela con un chorro de aceite de oliva hasta que la piel esté crujiente. Retira y reserva.
+2. Añade el ajo picado en la misma cazuela y dóralo ligeramente sin que se queme.
+3. Incorpora la cebolla, el puerro y la zanahoria. Agrega media cucharada de sal y pimienta al gusto. Sofríe hasta que la cebolla esté pochada y la zanahoria empiece a ablandarse.
+4. Añade el pimiento rojo y cocina durante unos 8 minutos hasta que esté tierno.
+5. Agrega las 2 cucharadas de harina y remueve bien para integrarla, cocinándola durante 2-3 minutos.
+6. Vuelve a incorporar el pollo junto con el jugo que haya soltado. Añade el laurel, el tomillo, el romero y la salsa de soja.
+7. Vierte el litro de cerveza y mezcla bien.
+8. Cocina a fuego medio durante unos 30-40 minutos o hasta que la salsa se haya reducido y espesado.
+9. Sirve caliente acompañado de pan para aprovechar la salsa.
 
 ## Consejos
 

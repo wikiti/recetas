@@ -14,7 +14,7 @@ layout: post
 - **450 gramos** de brócoli
 - **60 mililitros** de aceite de oliva virgen extra
 - **2 dientes** de ajo picados
-- **Una pizca** de sal
+- **1 pizca** de sal
 - **450 gramos** de salchicha italiana (dulce o picante), sin tripa
 - **25 gramos** de queso parmesano rallado, más al gusto para servir
 - **1/2** limón

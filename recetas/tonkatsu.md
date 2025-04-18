@@ -22,15 +22,15 @@ layout: post
 
 ## Pasos
 
-1. Aplanar ligeramente la chuleta con un mazo de cocina para ablandarla sin dejarla demasiado fina.
-2. Salpimentar la chuleta al gusto y enharinarla ligeramente, sacudiendo el exceso.
-3. Batir el huevo en un bol y sumergir la chuleta hasta que quede bien cubierta.
-4. Pasar la chuleta por el panko, asegurándose de que quede completamente rebozada.
-5. Calentar abundante aceite de girasol en una sartén a fuego medio-alto.
-6. Freír la chuleta hasta que esté dorada y crujiente, aproximadamente **3-4 minutos por cada lado**.
-7. Retirar del aceite y colocar sobre papel absorbente para eliminar el exceso de grasa.
-8. Para la salsa, mezclar en un bol la salsa inglesa, la salsa de ostras, el ketchup y el azúcar. Remover bien hasta obtener una mezcla homogénea.
-9. Cortar el tonkatsu en tiras y servir acompañado de la salsa tonkatsu por encima o aparte.
+1. Aplana ligeramente la chuleta con un mazo de cocina para ablandarla sin dejarla demasiado fina.
+2. Salpimienta la chuleta al gusto y enharínala ligeramente, sacudiendo el exceso.
+3. Bate el huevo en un bol y sumerge la chuleta hasta que quede bien cubierta.
+4. Pasa la chuleta por el panko, asegurándote de que quede completamente rebozada.
+5. Calienta abundante aceite de girasol en una sartén a fuego medio-alto.
+6. Fríe la chuleta hasta que esté dorada y crujiente, aproximadamente **3-4 minutos por cada lado**.
+7. Retira del aceite y coloca sobre papel absorbente para eliminar el exceso de grasa.
+8. Mezcla en un bol la salsa inglesa, la salsa de ostras, el ketchup y el azúcar para preparar la salsa. Remueve bien hasta obtener una mezcla homogénea.
+9. Corta el tonkatsu en tiras y sirve acompañado de la salsa tonkatsu por encima o aparte.
 
 ## Consejos
 

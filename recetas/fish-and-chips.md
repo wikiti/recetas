@@ -1,5 +1,5 @@
 ---
-title: Fish and Chips (solo el pescado)
+title: Fish and chips
 servings: 4
 preparation_time: 20 minutos
 cook_time: 10 minutos
@@ -11,10 +11,10 @@ layout: post
 ## Ingredientes
 
 - **600 gramos** de filetes de lubina o bacalao (u otro pescado blanco firme)
-- **Una pizca** de sal
+- **1 pizca** de sal
 - **120 gramos** de maicena (para el rebozado)
 - **180 + 15 gramos** de harina de trigo (para el rebozado)
-- **Una pizca generosa** de sal kosher
+- **1 pizca generosa** de sal kosher
 - **1 cucharadita** de levadura química (polvo de hornear)
 - **½ cucharadita** de pimentón dulce
 - **¼ cucharadita** de cayena molida

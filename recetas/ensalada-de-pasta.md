@@ -24,11 +24,11 @@ layout: post
 
 ## Pasos
 
-1. Cocer la pasta siguiendo las instrucciones del paquete y escurrir.
-2. Mezclar la rúcula con el resto de ingredientes secos (picatostes, queso rallado y aceitunas).
-3. En un bol, mezclar la mayonesa, el yogur, las especias y un poco de agua hasta obtener una consistencia cremosa.
-4. Combinar la pasta con la mezcla de rúcula y los ingredientes secos.
-5. Añadir la salsa y mezclar bien antes de servir.
+1. Cuece la pasta siguiendo las instrucciones del paquete y escurre.
+2. Mezcla la rúcula con el resto de ingredientes secos (picatostes, queso rallado y aceitunas).
+3. En un bol, mezcla la mayonesa, el yogur, las especias y un poco de agua hasta obtener una consistencia cremosa.
+4. Combina la pasta con la mezcla de rúcula y los ingredientes secos.
+5. Añade la salsa y mezcla bien antes de servir.
 
 ## Consejos
 

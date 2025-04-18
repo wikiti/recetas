@@ -17,15 +17,15 @@ layout: post
 
 ## Pasos
 
-1. Formar un volcán con la harina y añadir el huevo en el centro. Batir y amasar hasta obtener una masa flexible y homogénea que no se pegue a los dedos. Si es necesario, añadir más harina.
-2. Envolver la masa en papel film y dejar reposar durante 5 minutos.
-3. En este punto puedes usar una máquina de pasta para facilitar el extender la masa.
-4. Si no tienes máquina, dividir la masa en 2 o más trozos. Enharinar la superficie de trabajo y extender cada parte con un rodillo hasta obtener una lámina fina.
-5. Enharinar y doblar la masa desde los extremos hacia el centro.
-6. Cortar la masa doblada en tiras finas (tallarines) o trozos grandes (lasaña o canelones).
-7. Desdoblar las tiras y colocarlas en un plato con harina para evitar que se peguen.
-8. Hervir agua con sal y cocinar la pasta durante 2 minutos. Colar y añadir mantequilla o aceite para que no se pegue.
-9. Servir al gusto, por ejemplo, con parmesano rallado y atún.
+1. Forma un volcán con la harina y añade el huevo en el centro. Bate y amasa hasta obtener una masa flexible y homogénea que no se pegue a los dedos. Si es necesario, añade más harina.
+2. Envuelve la masa en papel film y deja reposar durante 5 minutos.
+3. Usa una máquina de pasta para facilitar el extender la masa.
+4. Si no tienes máquina, divide la masa en 2 o más trozos. Enharina la superficie de trabajo y extiende cada parte con un rodillo hasta obtener una lámina fina.
+5. Enharina y dobla la masa desde los extremos hacia el centro.
+6. Corta la masa doblada en tiras finas (tallarines) o trozos grandes (lasaña o canelones).
+7. Desdobla las tiras y colócalas en un plato con harina para evitar que se peguen.
+8. Hierve agua con sal y cocina la pasta durante 2 minutos. Cola y añade mantequilla o aceite para que no se pegue.
+9. Sirve al gusto, por ejemplo, con parmesano rallado y atún.
 
 ## Consejos
 

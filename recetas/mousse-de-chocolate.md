@@ -18,14 +18,14 @@ layout: post
 
 ## Pasos
 
-1. Derretir el chocolate al baño maría y añadir la mantequilla. Mezclar hasta integrar completamente. Retirar del fuego y dejar enfriar **5 minutos**.
-2. Separar las claras de los huevos y batir con unas varillas hasta que estén espumosas. Añadir gradualmente el azúcar mientras se sigue batiendo hasta obtener un merengue firme.
-3. Mezclar la ralladura de naranja con las yemas de huevo.
-4. Añadir las yemas a la mezcla de chocolate y mantequilla de forma gradual, batiendo hasta obtener una mezcla homogénea. Aunque parezca que se corta, seguir mezclando hasta que se integre bien.
-5. Agregar **3 cucharadas colmadas** de las claras montadas al chocolate y mezclar suavemente.
-6. Incorporar la mezcla de chocolate al resto de las claras montadas y mezclar con movimientos envolventes para no perder aire.
-7. Repartir la mousse en vasitos, taparlos con film transparente y refrigerar por un mínimo de **6 horas**.
-8. Servir al gusto, por ejemplo, con ralladura de chocolate blanco por encima.
+1. Derrite el chocolate al baño maría y añade la mantequilla. Mezcla hasta integrar completamente. Retira del fuego y deja enfriar **5 minutos**.
+2. Separa las claras de los huevos y bate con unas varillas hasta que estén espumosas. Añade gradualmente el azúcar mientras sigues batiendo hasta obtener un merengue firme.
+3. Mezcla la ralladura de naranja con las yemas de huevo.
+4. Añade las yemas a la mezcla de chocolate y mantequilla de forma gradual, batiendo hasta obtener una mezcla homogénea. Aunque parezca que se corta, sigue mezclando hasta que se integre bien.
+5. Agrega **3 cucharadas colmadas** de las claras montadas al chocolate y mezcla suavemente.
+6. Incorpora la mezcla de chocolate al resto de las claras montadas y mezcla con movimientos envolventes para no perder aire.
+7. Reparte la mousse en vasitos, tápalos con film transparente y refrigera por un mínimo de **6 horas**.
+8. Sirve al gusto, por ejemplo, con ralladura de chocolate blanco por encima.
 
 ## Consejos
 

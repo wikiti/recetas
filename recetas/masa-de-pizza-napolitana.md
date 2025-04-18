@@ -18,16 +18,16 @@ layout: post
 
 ## Pasos
 
-1. Colocar la sal y el agua en un cuenco, agregar un puñado de harina y mezclar hasta integrar los ingredientes.
-2. Añadir la levadura y remover bien.
-3. Incorporar el resto de la harina y mezclar hasta obtener una masa uniforme.
-4. Volcar la masa sobre una superficie ligeramente enharinada y amasar durante **10 minutos**.
-5. Formar una bola plegando la masa sobre sí misma, untar ligeramente con aceite y dejar reposar en un recipiente hermético en la nevera durante **2 días**.
-6. Antes de usar, sacar de la nevera, amasar ligeramente y formar una bola. Cubrir con una ligera capa de aceite y dejar reposar en un bol tapado con un paño de cocina durante al menos **4 horas** hasta que aumente de tamaño.
-7. Colocar la masa sobre una superficie enharinada y estirar usando solo las manos (evitar rodillo para no perder las burbujas de fermentación).
-8. Añadir los toppings deseados y hornear sobre una piedra refractaria precalentada durante **no más de 5 minutos**.
+1. Coloca la sal y el agua en un cuenco, agrega un puñado de harina y mezcla hasta integrar los ingredientes.
+2. Añade la levadura y remueve bien.
+3. Incorpora el resto de la harina y mezcla hasta obtener una masa uniforme.
+4. Vuelca la masa sobre una superficie ligeramente enharinada y amasa durante **10 minutos**.
+5. Forma una bola plegando la masa sobre sí misma, unta ligeramente con aceite y deja reposar en un recipiente hermético en la nevera durante **2 días**.
+6. Saca de la nevera, amasa ligeramente y forma una bola. Cubre con una ligera capa de aceite y deja reposar en un bol tapado con un paño de cocina durante al menos **4 horas** hasta que aumente de tamaño.
+7. Coloca la masa sobre una superficie enharinada y estira usando solo las manos (evita el rodillo para no perder las burbujas de fermentación).
+8. Añade los toppings deseados y hornea sobre una piedra refractaria precalentada durante **no más de 5 minutos**.
 
 ## Consejos
 
 - La fermentación lenta en frío mejora el sabor y la textura de la masa.
-- Cocinar en horno a **temperatura máxima** para lograr una textura auténtica de pizza napolitana.
+- Cocina en el horno a **temperatura máxima** para lograr una textura auténtica de pizza napolitana.

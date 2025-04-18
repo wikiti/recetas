@@ -24,19 +24,19 @@ layout: post
 
 ## Pasos
 
-1. Precalentar el horno a **200°C** y preparar un molde para muffins con moldes (8 muffins grandes, 10 estándar o 22 mini).
-2. Engrasar ligeramente la parte superior del molde para evitar que los muffins se peguen.
-3. En un bol grande, mezclar la harina, el azúcar, el polvo de hornear y la sal.
-4. En una jarra medidora de al menos 1 taza, agregar el aceite, luego el huevo y completar con leche hasta alcanzar la marca de 1 taza. Agregar la vainilla y mezclar bien.
-5. Incorporar los ingredientes húmedos a los secos y mezclar suavemente hasta integrar.
-6. Agregar los arándanos con movimientos envolventes.
-7. Dividir la masa en los moldes preparados, llenándolos casi hasta el borde para muffins grandes. Espolvorear un poco de azúcar encima.
-8. Hornear durante **15-20 minutos** o hasta que un palillo insertado en el centro salga con migas secas.
-9. Dejar enfriar en una rejilla.
+1. Precalienta el horno a **200°C** y prepara un molde para muffins con moldes (8 muffins grandes, 10 estándar o 22 mini).
+2. Engrasa ligeramente la parte superior del molde para evitar que los muffins se peguen.
+3. Mezcla en un bol grande la harina, el azúcar, el polvo de hornear y la sal.
+4. Agrega en una jarra medidora de al menos 1 taza el aceite, luego el huevo y completa con leche hasta alcanzar la marca de 1 taza. Añade la vainilla y mezcla bien.
+5. Incorpora los ingredientes húmedos a los secos y mezcla suavemente hasta integrar.
+6. Agrega los arándanos con movimientos envolventes.
+7. Divide la masa en los moldes preparados, llenándolos casi hasta el borde para muffins grandes. Espolvorea un poco de azúcar encima.
+8. Hornea durante **15-20 minutos** o hasta que un palillo insertado en el centro salga con migas secas.
+9. Deja enfriar en una rejilla.
 
 ## Consejos
 
-- Si usas arándanos congelados, agrégales sin descongelar.
+- Si usas arándanos congelados, agrégalos sin descongelar.
 - Para muffins mini, reduce el tiempo de horneado a **9-11 minutos**.
 - La masa debe ser espesa y maleable. Si está muy líquida, añade harina poco a poco; si está muy seca, agrega leche por cucharadas hasta lograr la textura adecuada.
 - Para conservarlos, guárdalos en una bolsa hermética a temperatura ambiente por hasta **3 días** o congélalos hasta **3 meses**.

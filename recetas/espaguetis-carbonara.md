@@ -19,13 +19,13 @@ layout: post
 
 ## Pasos
 
-1. Cortar el guanciale o la panceta en cubos pequeños.
-2. Cocer la pasta en abundante agua con sal hasta que esté al dente.
-3. Mientras tanto, calentar el aceite en una sartén y freír el guanciale o la panceta hasta que esté crujiente. Retirar del fuego y reservar, eliminando el exceso de grasa.
-4. En un bol grande, batir ligeramente los huevos junto con el queso rallado y la pimienta negra.
-5. Cuando la pasta esté lista, escurrir y agregar a la sartén con el guanciale. Mezclar bien para impregnarla con el sabor.
-6. Dejar enfriar ligeramente la pasta y, luego, añadir la mezcla de huevo y queso. Remover rápidamente para evitar que el huevo cuaje.
-7. Servir inmediatamente con más queso rallado y pimienta al gusto.
+1. Corta el guanciale o la panceta en cubos pequeños.
+2. Cuece la pasta en abundante agua con sal hasta que esté al dente.
+3. Mientras tanto, calienta el aceite en una sartén y fríe el guanciale o la panceta hasta que esté crujiente. Retira del fuego y reserva, eliminando el exceso de grasa.
+4. En un bol grande, bate ligeramente los huevos junto con el queso rallado y la pimienta negra.
+5. Cuando la pasta esté lista, escurre y agrega a la sartén con el guanciale. Mezcla bien para impregnarla con el sabor.
+6. Deja enfriar ligeramente la pasta y, luego, añade la mezcla de huevo y queso. Remueve rápidamente para evitar que el huevo cuaje.
+7. Sirve inmediatamente con más queso rallado y pimienta al gusto.
 
 ## Consejos
 
