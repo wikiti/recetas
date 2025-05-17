@@ -4,7 +4,7 @@ servings: 1 tarta
 preparation_time: 20 minutos
 cook_time: 50 minutos
 total_time: 70 minutos
-layout: post
+layout: receta
 tags: [postre, cheesecake, horno]
 ---
 

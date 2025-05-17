@@ -7,7 +7,7 @@ total_time: 35 minutos
 tags: [postre, desayuno, muffins]
 tag: postre
 category: postre
-layout: post
+layout: receta
 ---
 
 ## Ingredientes

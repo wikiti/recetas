@@ -5,7 +5,7 @@ preparation_time: 15 minutos
 cook_time: 13 minutos
 total_time: 28 minutos
 tags: [galletas, postre, chocolate]
-layout: post
+layout: receta
 ---
 
 ## Ingredientes

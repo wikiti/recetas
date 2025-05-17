@@ -5,7 +5,7 @@ preparation_time: 20 minutos
 cook_time: 10 minutos
 total_time: 30 minutos
 tags: [pescado, frito]
-layout: post
+layout: receta
 ---
 
 ## Ingredientes

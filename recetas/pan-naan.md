@@ -5,7 +5,7 @@ preparation_time: 15 minutes
 cook_time: 15 minutes
 total_time: 30 minutes
 tags: [india, pan]
-layout: post
+layout: receta
 ---
 
 ## Ingredientes

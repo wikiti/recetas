@@ -7,7 +7,7 @@ total_time: 1 hora 15 minutos
 tags: [postre, francesa]
 tag: postre
 category: postre
-layout: post
+layout: receta
 ---
 
 ## Ingredientes

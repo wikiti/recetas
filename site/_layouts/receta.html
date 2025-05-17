@@ -1,0 +1,39 @@
+---
+layout: post
+---
+
+<style>
+  dl {
+    display: grid;
+    grid-gap: 0px 16px;
+    grid-template-columns: max-content;
+
+    line-height: 0.8rem;
+    font-size: 0.8rem;
+    font-style: italic;
+    color: #9d9d9d;
+  }
+
+  dd {
+    margin: 0;
+    grid-column-start: 2;
+  }
+</style>
+
+<dl>
+  {% if page.servings %}
+  <dt>Raciones</dt>
+  <dd>{{ page.servings }}</dd>
+  {% endif %} {% if page.preparation_time %}
+  <dt>Tiempo de preparación</dt>
+  <dd>{{ page.preparation_time }}</dd>
+  {% endif %} {% if page.cook_time %}
+  <dt>Tiempo de cocción</dt>
+  <dd>{{ page.cook_time }}</dd>
+  {% endif %} {% if page.cook_time and page.cook_time and page.total_time %}
+  <dt>Tiempo total</dt>
+  <dd>{{ page.total_time }}</dd>
+  {% endif %}
+</dl>
+
+{{ content }}

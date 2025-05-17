@@ -5,7 +5,7 @@ preparation_time: 10 minutos
 cook_time: 15 minutos
 total_time: 25 minutos
 tags: [pasta, italiana]
-layout: post
+layout: receta
 ---
 
 ## Ingredientes

@@ -5,7 +5,7 @@ preparation_time: 10 minutos
 cook_time: 10 minutos
 total_time: 20 minutos
 tags: [ensalada, pasta, vegetariana]
-layout: post
+layout: receta
 ---
 
 ## Ingredientes

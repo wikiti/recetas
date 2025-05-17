@@ -5,7 +5,7 @@ preparation_time: 10 minutos
 cook_time: 25 minutos
 total_time: 35 minutos
 tags: [gnocchi, horno, brócoli, salchicha, parmesano]
-layout: post
+layout: receta
 ---
 
 ## Ingredientes

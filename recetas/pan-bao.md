@@ -5,7 +5,7 @@ preparation_time: 2 horas 15 minutos
 cook_time: 15 minutos
 total_time: 2 horas 30 minutos
 tags: [asiática, pan, bao]
-layout: post
+layout: receta
 ---
 
 ## Ingredientes

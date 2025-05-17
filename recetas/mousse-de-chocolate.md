@@ -5,7 +5,7 @@ preparation_time: 20 minutos
 cook_time: 6 horas
 total_time: 6 horas 20 minutos
 tags: [postre, chocolate, mousse]
-layout: post
+layout: receta
 ---
 
 ## Ingredientes

@@ -5,7 +5,7 @@ preparation_time: 15 minutos
 cook_time: 45 minutos
 total_time: 60 minutos
 tags: [pollo, guiso, cerveza]
-layout: post
+layout: receta
 ---
 
 ## Ingredientes

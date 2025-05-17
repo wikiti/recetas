@@ -5,7 +5,7 @@ preparation_time: 15 minutos
 cook_time: 15 minutos
 total_time: 30 minutos
 categories: [galletas, avena, chocolate, postre]
-layout: post
+layout: receta
 ---
 
 ## Ingredientes
