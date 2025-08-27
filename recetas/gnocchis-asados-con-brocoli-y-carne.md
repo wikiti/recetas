@@ -11,11 +11,11 @@ layout: receta
 ## Ingredientes
 
 - **500 gramos** de ñoquis de patata
-- **450 gramos** de brócoli
+- **250 gramos** de brócoli
 - **60 mililitros** de aceite de oliva virgen extra
 - **2 dientes** de ajo picados
 - **1 pizca** de sal
-- **450 gramos** de salchicha italiana (dulce o picante), sin tripa
+- **150 gramos** de salchicha fresca (dulce o picante), sin tripa
 - **25 gramos** de queso parmesano rallado, más al gusto para servir
 - **1/2** limón
 

@@ -1,5 +1,5 @@
 ---
-title: Yakisoba japonés
+title: Yakisoba
 servings: 1 ración
 preparation_time: 15 minutos
 cook_time: 10 minutos
