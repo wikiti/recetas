@@ -13,7 +13,6 @@ layout: receta
 - **500 gramos** de ñoquis de patata
 - **250 gramos** de brócoli
 - **60 mililitros** de aceite de oliva virgen extra
-- **2 dientes** de ajo picados
 - **1 pizca** de sal
 - **150 gramos** de salchicha fresca (dulce o picante), sin tripa
 - **25 gramos** de queso parmesano rallado, más al gusto para servir
@@ -22,7 +21,7 @@ layout: receta
 ## Pasos
 
 1. Precalienta el horno a 220 °C.
-2. En una bandeja para horno, mezcla los ñoquis, el brócoli, el aceite de oliva y el ajo hasta que estén bien cubiertos. Sazona con sal y pimienta.
+2. En una bandeja para horno, mezcla los ñoquis, el brócoli y el aceite de oliva. Sazona con sal y pimienta.
 3. Toma pedacitos de la salchicha del tamaño de los ñoquis y colócalos sobre la mezcla.
 4. Asa durante 20 a 25 minutos, hasta que la salchicha y el brócoli estén dorados y crujientes.
 5. Exprime medio limón sobre la bandeja y espolvorea con el parmesano.
