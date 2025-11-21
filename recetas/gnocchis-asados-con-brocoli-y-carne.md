@@ -14,6 +14,7 @@ layout: receta
 - **250 gramos** de brócoli
 - **60 mililitros** de aceite de oliva virgen extra
 - **1 pizca** de sal
+- **1 pizca** de pimienta
 - **150 gramos** de salchicha fresca (dulce o picante), sin tripa
 - **25 gramos** de queso parmesano rallado, más al gusto para servir
 - **1/2** limón
@@ -25,7 +26,7 @@ layout: receta
 3. Toma pedacitos de la salchicha del tamaño de los ñoquis y colócalos sobre la mezcla.
 4. Asa durante 20 a 25 minutos, hasta que la salchicha y el brócoli estén dorados y crujientes.
 5. Exprime medio limón sobre la bandeja y espolvorea con el parmesano.
-6. Sirve con más parmesano y chile al gusto, o con salsa de yogur.
+6. Sirve con más parmesano y chile al gusto, o con salsa de yogur sencilla (yogur, agua, sal y pimienta).
 
 ## Consejos
 
