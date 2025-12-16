@@ -31,3 +31,7 @@ layout: receta
 
 - La fermentación lenta en frío mejora el sabor y la textura de la masa.
 - Cocina en el horno a **temperatura máxima** para lograr una textura auténtica de pizza napolitana.
+- Si vas a usar un horno doméstico, no uses mozzarella fresca. La rallada funciona mejor al no tener tanta humedad.
+- Algunas ideas para hacer pizzas:
+  - Tomate triturado, mozzarella y albahaca (pizza Nápoles clásica)
+  - Tomate triturado, mozzarella, camembert, pollo, nueces, mermelada de arándanos y rúcula
