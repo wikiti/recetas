@@ -57,4 +57,9 @@ layout: receta
 - Intenta usar herramientas de buena calidad.
 - ...
 ```
+
+Texto de la receta:
+------------------------------
+
+...
 ````
