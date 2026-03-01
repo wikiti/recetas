@@ -1,5 +1,5 @@
 ---
-title: Carne adobada al horno
+title: Cochinita pibil
 servings: 4 raciones
 preparation_time: 6 horas
 cook_time: 6 horas
