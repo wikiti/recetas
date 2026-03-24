@@ -1,5 +1,5 @@
 ---
-title: Gnocchis asados con brócoli y carne
+title: Ñoquis asados con brócoli y carne
 servings: 4
 preparation_time: 10 minutos
 cook_time: 25 minutos

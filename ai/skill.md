@@ -38,6 +38,7 @@ layout: receta
 
 - **5 gramos** de harina
 - **1 pizca** de sal
+- **1** huevo
 - ...
 
 ## Pasos
