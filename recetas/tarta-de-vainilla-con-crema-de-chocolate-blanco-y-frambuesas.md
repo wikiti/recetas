@@ -44,8 +44,6 @@ layout: receta
 - **Cantidad al gusto** de rulos de chocolate
 - **Cantidad al gusto** de hojas de menta fresca
 
----
-
 ## Pasos
 
 ### Bizcocho
@@ -85,8 +83,6 @@ layout: receta
 6. Decora la tarta con pinceladas de crema de forma irregular, ayudándote de una espátula repostera, para que quede con textura irregular.
 7. Coloca frambuesas frescas por la superficie.
 8. Añade rulos de chocolate y hojas de menta.
-
----
 
 ## Consejos
 
