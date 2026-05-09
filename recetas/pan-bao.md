@@ -31,6 +31,5 @@ layout: receta
 
 ## Consejos
 
-- Asegúrate de que la masa repose lo suficiente para que suba bien.
-- Utiliza aceite para evitar que los panecillos se peguen al vaporizarse.
-- Deja reposar después de la cocción para asegurar que los panecillos mantengan su esponjosidad.
+- Asegúrate de que la masa repose lo suficiente para que suba bien, ya que dependerá de la temperatura ambiente.
+- Puedes congelar los panecillos al vapor una vez cocinados; asegúrate de congelarlos en una bandeja, y una vez hayan endurecidos, meterlos en una bolsa hermética.
