@@ -29,3 +29,4 @@ layout: receta
 
 - Puedes congelar los panecillos rebozados antes de freírlos; congélalos primero en una bandeja separados entre sí. Para cocinarlos, fríelos directamente sin descongelar, añadiendo un minuto extra por lado.
 - Mantén el aceite a temperatura constante de **170 °C** entre tandas para asegurar un rebozado uniforme y que no quede aceitoso.
+- Ideas de relleno: pollo a la plancha con salsa de soja y miel, pepino cortado en bastones, y salsa de mayonesa siracha.

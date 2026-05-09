@@ -33,3 +33,4 @@ layout: receta
 
 - Asegúrate de que la masa repose lo suficiente para que suba bien, ya que dependerá de la temperatura ambiente.
 - Puedes congelar los panecillos al vapor una vez cocinados; asegúrate de congelarlos en una bandeja, y una vez hayan endurecidos, meterlos en una bolsa hermética.
+- Ideas de relleno: panceta a la plancha con salsa inglesa, rúcula, y mermelada de frambuesas.
