@@ -10,7 +10,7 @@ layout: receta
 
 ## Ingredientes
 
-- **16** panecillos bao (ver receta de pan bao en el recetario)
+- **16** panecillos bao, cocinados y secos (ver receta de pan bao en el recetario)
 - **1** huevo
 - **1 cucharada** de maicena
 - **150 gramos** de panko
